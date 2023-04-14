@@ -1,0 +1,30 @@
+C:\Users\54106581833\Desktop\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.exe
+C:\Users\54106581833\Desktop\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.deps.json
+C:\Users\54106581833\Desktop\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.runtimeconfig.json
+C:\Users\54106581833\Desktop\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.dll
+C:\Users\54106581833\Desktop\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.pdb
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.dll
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\refint\Gasolina ou alcool.dll
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.pdb
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\Gasolina ou alcool\obj\Debug\net7.0\ref\Gasolina ou alcool.dll
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.exe
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.deps.json
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.runtimeconfig.json
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.dll
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\bin\Debug\net7.0\Gasolina ou alcool.pdb
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.dll
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\refint\Gasolina ou alcool.dll
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.pdb
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\Gasolina ou alcool.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\exercicios\2° exercicio\Gasolina ou alcool\obj\Debug\net7.0\ref\Gasolina ou alcool.dll
