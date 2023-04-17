@@ -2,7 +2,7 @@
 int maior = 0; 
 int menor = 0;
 
-for (int i = 0; i < 10; i++) {
+for (int i = 0; i < 5; i++) {
     Console.Write($"Digite o {i+1}º valor: ");
     valores[i] = int.Parse(Console.ReadLine());
 
@@ -11,12 +11,14 @@ for (int i = 0; i < 10; i++) {
           menor = valores[i];
      }
      else {
-           if (valores[i] > maior) {
+           if (valores[i] > maior) 
+           {
                maior = valores[i];
            }
-               if (valores[i] < menor) {
+               if (valores[i] < menor) 
+               {
                menor = valores[i];
-           }
+            }
           }
         }
 

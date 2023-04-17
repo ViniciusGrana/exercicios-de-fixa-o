@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\54106581833\\Desktop\\exercicios\\5° exercicio\\5° exercicio.csproj": {}
+    "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\5° exercicio\\5° exercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\54106581833\\Desktop\\exercicios\\5° exercicio\\5° exercicio.csproj": {
+    "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\5° exercicio\\5° exercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\54106581833\\Desktop\\exercicios\\5° exercicio\\5° exercicio.csproj",
+        "projectUniqueName": "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\5° exercicio\\5° exercicio.csproj",
         "projectName": "5° exercicio",
-        "projectPath": "C:\\Users\\54106581833\\Desktop\\exercicios\\5° exercicio\\5° exercicio.csproj",
+        "projectPath": "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\5° exercicio\\5° exercicio.csproj",
         "packagesPath": "C:\\Users\\54106581833\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\54106581833\\Desktop\\exercicios\\5° exercicio\\obj\\",
+        "outputPath": "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\5° exercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\54106581833\\AppData\\Roaming\\NuGet\\NuGet.Config",

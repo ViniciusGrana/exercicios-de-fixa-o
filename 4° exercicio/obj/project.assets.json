@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54106581833\\Desktop\\exercicios\\4° exercicio\\4° exercicio.csproj",
+      "projectUniqueName": "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\4° exercicio\\4° exercicio.csproj",
       "projectName": "4° exercicio",
-      "projectPath": "C:\\Users\\54106581833\\Desktop\\exercicios\\4° exercicio\\4° exercicio.csproj",
+      "projectPath": "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\4° exercicio\\4° exercicio.csproj",
       "packagesPath": "C:\\Users\\54106581833\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54106581833\\Desktop\\exercicios\\4° exercicio\\obj\\",
+      "outputPath": "C:\\Users\\54106581833\\Desktop\\exercicios-de-fixa-o\\4° exercicio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54106581833\\AppData\\Roaming\\NuGet\\NuGet.Config",

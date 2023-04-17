@@ -1,0 +1,15 @@
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\bin\Debug\net7.0\5° exercicio.exe
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\bin\Debug\net7.0\5° exercicio.deps.json
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\bin\Debug\net7.0\5° exercicio.runtimeconfig.json
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\bin\Debug\net7.0\5° exercicio.dll
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\bin\Debug\net7.0\5° exercicio.pdb
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.csproj.AssemblyReference.cache
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.AssemblyInfoInputs.cache
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.AssemblyInfo.cs
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.csproj.CoreCompileInputs.cache
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.dll
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\refint\5° exercicio.dll
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.pdb
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\5° exercicio.genruntimeconfig.cache
+C:\Users\54106581833\Desktop\exercicios-de-fixa-o\5° exercicio\obj\Debug\net7.0\ref\5° exercicio.dll
